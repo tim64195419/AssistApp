@@ -1,6 +1,8 @@
-<resources>
-    <string name="app_name">Assist App</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+
+<resources>
+    <string name="app_name">assist</string>
+
+    <string name="Content1">Title</string>
+
 </resources>
